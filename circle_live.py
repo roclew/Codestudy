@@ -16,6 +16,7 @@ def get_list():
         print(i,end="")
     return persons
 
+
 def main():
     get_list()
 
